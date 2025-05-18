@@ -1,4 +1,4 @@
-# 🖥️ Nowoczesny Tech Stack Webowy (2025)
+# 🖥️ Tech Stack Webowy (2025)
 
 ## 1. IDE & AI Asystenci
 
@@ -6,9 +6,8 @@
 |------------------|-----------------------------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"/> **VSCode** | Najpopularniejsze IDE, mnóstwo pluginów. |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> **GitHub Copilot** | AI do kodu, darmowy dla studentów.       |
-| 🌊 **Windsurf**  | Alternatywa AI, wersja darmowa.   |
+| <img src="https://exafunction.github.io/public/images/windsurf/windsurf-app-icon.png" width="28"/> **Windsurf**  | Alternatywa AI, wersja darmowa.   |
 
-*Tu możesz wrzucić screeny/ikony IDE i AI asystentów.*
 
 ---
 
@@ -50,15 +49,5 @@
 |------------------|-----------------------------------|
 | <img src="https://vercel.com/favicon.ico" width="28"/> **Vercel** | Hosting dla Next.js, szybki deploy.      |
 | <img src="https://www.netlify.com/favicon.ico" width="28"/> **Netlify** | Alternatywa dla Vercel.                  |
-
----
-
-### 📸 Miejsce na zrzuty ekranu / loga
-
-*Tutaj wrzuć własne screeny lub loga narzędzi, których używasz najczęściej.*
-
----
-
-Chcesz dodać coś jeszcze? Daj znać, a rozbuduję ściągawkę! 
 
 ---
